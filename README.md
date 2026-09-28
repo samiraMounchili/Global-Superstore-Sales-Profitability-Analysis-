@@ -46,7 +46,8 @@ The objective was to evaluate sales performance, profitability, customer behavio
 - Some high-revenue customers were identified as loss-making, showing that sales value alone does not indicate customer profitability.
 
 ## SQL Analysis
-[View SQL Analysis](global_superstore_sql_analysis.sql)
+[global superstore Sql analyis.sql](https://github.com/user-attachments/files/32755422/global.superstore.Sql.analyis.sql)
+
 
 MySQL was used to analyse the dataset and validate key business metrics.
 
